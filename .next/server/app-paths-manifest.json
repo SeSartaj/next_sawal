@@ -1,0 +1,22 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/[lang]/page": "app/[lang]/page.js",
+  "/[lang]/about/page": "app/[lang]/about/page.js",
+  "/[lang]/ask_question/page": "app/[lang]/ask_question/page.js",
+  "/[lang]/forgot_pass/page": "app/[lang]/forgot_pass/page.js",
+  "/[lang]/moderators/page": "app/[lang]/moderators/page.js",
+  "/[lang]/privacy_policy/page": "app/[lang]/privacy_policy/page.js",
+  "/[lang]/questions/page": "app/[lang]/questions/page.js",
+  "/[lang]/report_types/page": "app/[lang]/report_types/page.js",
+  "/[lang]/reports/page": "app/[lang]/reports/page.js",
+  "/[lang]/sign_in/page": "app/[lang]/sign_in/page.js",
+  "/[lang]/settings/page": "app/[lang]/settings/page.js",
+  "/[lang]/sign_up/page": "app/[lang]/sign_up/page.js",
+  "/[lang]/tags/page": "app/[lang]/tags/page.js",
+  "/[lang]/users/page": "app/[lang]/users/page.js",
+  "/[lang]/use_terms/page": "app/[lang]/use_terms/page.js",
+  "/[lang]/profile/[id]/page": "app/[lang]/profile/[id]/page.js",
+  "/[lang]/question/[id]/page": "app/[lang]/question/[id]/page.js",
+  "/[lang]/reset_pass/[token]/page": "app/[lang]/reset_pass/[token]/page.js",
+  "/[lang]/questions/tag/[id]/page": "app/[lang]/questions/tag/[id]/page.js"
+}

@@ -1,0 +1,53 @@
+import {
+  Tag,
+  Clock9,
+  Send,
+  Pilcrow,
+  Subtitles,
+  Paperclip,
+  Check,
+  User,
+  ExternalLink,
+  X,
+  Star,
+  ChevronUp,
+  ChevronDown,
+  CheckCircle2,
+  MessageCircle,
+  Plus,
+  Search,
+  ThumbsUp,
+  ThumbsDown,
+  Calendar as CalendarIcon,
+  ChevronLeft,
+  ChevronRight,
+  FileEdit
+} from "lucide-react";
+
+export const Icons = {
+  Tag,
+  Clock9,
+  Send,
+  Pilcrow,
+  Subtitles,
+  Paperclip,
+  Check,
+  User,
+  ExternalLink,
+  X,
+  Star,
+  ChevronUp,
+  ChevronDown,
+  CheckCircle2,
+  MessageCircle,
+  Plus,
+  Search,
+  ThumbsUp,
+  ThumbsDown,
+  CalendarIcon,
+  ChevronLeft,
+  ChevronRight,
+  FileEdit
+};
+
+export default Icons;

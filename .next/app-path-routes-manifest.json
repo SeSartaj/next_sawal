@@ -1,0 +1,22 @@
+{
+  "/favicon.ico/route": "/favicon.ico",
+  "/[lang]/page": "/[lang]",
+  "/[lang]/about/page": "/[lang]/about",
+  "/[lang]/ask_question/page": "/[lang]/ask_question",
+  "/[lang]/forgot_pass/page": "/[lang]/forgot_pass",
+  "/[lang]/moderators/page": "/[lang]/moderators",
+  "/[lang]/privacy_policy/page": "/[lang]/privacy_policy",
+  "/[lang]/questions/page": "/[lang]/questions",
+  "/[lang]/report_types/page": "/[lang]/report_types",
+  "/[lang]/reports/page": "/[lang]/reports",
+  "/[lang]/sign_in/page": "/[lang]/sign_in",
+  "/[lang]/settings/page": "/[lang]/settings",
+  "/[lang]/sign_up/page": "/[lang]/sign_up",
+  "/[lang]/tags/page": "/[lang]/tags",
+  "/[lang]/users/page": "/[lang]/users",
+  "/[lang]/use_terms/page": "/[lang]/use_terms",
+  "/[lang]/profile/[id]/page": "/[lang]/profile/[id]",
+  "/[lang]/question/[id]/page": "/[lang]/question/[id]",
+  "/[lang]/reset_pass/[token]/page": "/[lang]/reset_pass/[token]",
+  "/[lang]/questions/tag/[id]/page": "/[lang]/questions/tag/[id]"
+}
